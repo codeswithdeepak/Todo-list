@@ -1,3 +1,3 @@
 the first file 
-dsa leetcode and codeforce .
+dsa leetcode and codeforce
 
